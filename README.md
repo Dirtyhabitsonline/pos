@@ -37,3 +37,5 @@ To fetch odoo merge pull requests refs use this command:
 
     $ ./odoo.py setup_git_review
 
+https://oneclick.amplifyapp.com/button.svg
+
